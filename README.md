@@ -52,7 +52,9 @@
 4. Приложите в файл README.md текст использованных команд в GitHub
 ## Решение 2
 
-
+![alt text](https://github.com/AndreiObukhov/Zabbix_monitoring_System/blob/main/vm1.png)
+![alt text](https://github.com/AndreiObukhov/Zabbix_monitoring_System/blob/main/vm2.png)
+![alt text](https://github.com/AndreiObukhov/Zabbix_monitoring_System/blob/main/vm3.png)
 
 # Задание 3 со звёздочкой*
 
